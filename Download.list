@@ -1,6 +1,8 @@
 # 内容：Download
 # 数量：22条
 DOMAIN-KEYWORD,aria2
+DOMAIN-KEYWORD,onyra
+DOMAIN-KEYWORD,docker
 DOMAIN-SUFFIX,smtp
 PROCESS-NAME,DownloadService.exe
 PROCESS-NAME,Folx.exe
